@@ -1,0 +1,11 @@
+name: sudoku-env
+dependencies:
+  - python
+  - ipykernel
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - numpy
+    - scipy
+    - sudokum
